@@ -2,7 +2,7 @@
   import { MyCounterButton } from 'ui'
 </script>
 
-<div class="m-auto text-center">
+<div class="py-32 mx-auto text-center bg-gradient-to-r from-secondary-200 dark:from-secondary-900">
   <h1>Welcome to SvelteKit Monorepo Boilerplate</h1>
 
   <div class="p-10">
