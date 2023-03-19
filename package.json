@@ -7,6 +7,8 @@
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
+    "home": "turbo run dev --filter home",
+    "docs": "turbo run dev --filter docs",
     "lint": "turbo run lint",
     "format": "prettier --write ."
   },

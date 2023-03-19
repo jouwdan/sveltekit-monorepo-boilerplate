@@ -1,3 +1,3 @@
-# apps/docs
+# apps/home
 
-This is the documentation application
+This is the homepage application
